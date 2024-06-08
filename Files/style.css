@@ -28,12 +28,12 @@ main h2 {
     
     main h1 {
         color: rgb(101, 12, 12);
-        font-size: 3px;
+        font-size: 25px;
     }
     
     main h2 {
         color: rgb(244, 164, 60);
         font-style: italic;
-        font-size: 2px;
+        font-size: 16px;
     }
 }
