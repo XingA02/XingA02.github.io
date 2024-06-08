@@ -16,3 +16,24 @@ main h2 {
     font-style: italic;
 }
 
+@media (max-width: 768px) {
+    main {
+        padding-left: 5%;
+        padding-right: 5%;
+        padding-top: 3%;
+        padding-bottom: 3%;
+        text-align: justify;
+        line-height: 1.5;
+    }
+    
+    main h1 {
+        color: rgb(101, 12, 12);
+        font-size: 3px;
+    }
+    
+    main h2 {
+        color: rgb(244, 164, 60);
+        font-style: italic;
+        font-size: 2px;
+    }
+}
