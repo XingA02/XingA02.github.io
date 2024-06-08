@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const navHTML = `
         <nav>
             <div class="nav-container">
-                <a href="./index.html" class="nav-logo">MyLogo</a>
+
                 <ul class="nav-links">
                     <li><a href="./index.html">我的主页</a></li>
                     <li><a href="./视频索引.html">视频索引</a></li>
