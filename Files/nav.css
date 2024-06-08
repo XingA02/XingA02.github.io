@@ -1,0 +1,59 @@
+/* Reset some default browser styles */
+body, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic body styling */
+body {
+    font-family: 'Times New Roman', '宋体';
+}
+
+/* Navigation styling */
+nav {
+    color: #989898;
+    padding: 1em 0;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+.nav-logo {
+    font-size: 2em;
+    font-weight: bold;
+    text-decoration: none;
+    color: #989898;
+}
+
+
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1em;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #989898;
+    font-size: 1.4em;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #ff8000;
+}
+
+.nav-logo a:hover {
+    color: #ff8000;
+}
