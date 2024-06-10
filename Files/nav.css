@@ -1,5 +1,5 @@
 /* Reset some default browser styles */
-body, ul, li {
+body {
     margin: 0;
     padding: 0;
 }
@@ -43,8 +43,8 @@ nav {
 
 .nav-links a {
     text-decoration: none;
-    color: #989898;
-    font-size: 1.4em;
+    color: #6c6c6c;
+    font-size: 1em;
     transition: color 0.3s;
 }
 
