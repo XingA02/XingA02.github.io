@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xinga02.github.io/</id>
+    <title>X. Tan&apos;s Homepage</title>
+    <updated>2024-07-29T10:16:41.374Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xinga02.github.io/"/>
+    <link rel="self" href="https://xinga02.github.io/atom.xml"/>
+    <subtitle>心若有愿，向阳而生</subtitle>
+    <logo>https://xinga02.github.io/images/avatar.png</logo>
+    <icon>https://xinga02.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, X. Tan&apos;s Homepage</rights>
+    <entry>
+        <title type="html"><![CDATA[数学建模论文LaTeX模板项目及其使用说明]]></title>
+        <id>https://xinga02.github.io/post/chu-zhong-shu-xue-jiao-cheng/</id>
+        <link href="https://xinga02.github.io/post/chu-zhong-shu-xue-jiao-cheng/">
+        </link>
+        <updated>2024-07-28T09:30:48.000Z</updated>
+        <content type="html"><![CDATA[<p>123</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的开源项目汇总]]></title>
+        <id>https://xinga02.github.io/post/wo-de-kai-yuan-xiang-mu/</id>
+        <link href="https://xinga02.github.io/post/wo-de-kai-yuan-xiang-mu/">
+        </link>
+        <updated>2024-07-28T09:30:17.000Z</updated>
+        <content type="html"><![CDATA[<p>本部分存放我开源的项目链接，同步内容更新在我的Github主页：https://github.com/XingA02，每当有重要的开源项目搭配B站视频出现，我都会单独用一个博客介绍的哈~</p>
+<h2 id="数学建模">数学建模</h2>
+<ul>
+<li>基于Python的数学建模简明教程：https://github.com/XingA02/Model_with_Python</li>
+<li>数学建模竞赛论文LaTeX模板：https://github.com/XingA02/cls_for_CUMCM</li>
+</ul>
+<h2 id="初中数学">初中数学</h2>
+]]></content>
+    </entry>
+</feed>
